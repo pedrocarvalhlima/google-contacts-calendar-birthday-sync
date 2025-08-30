@@ -16,6 +16,7 @@ A desktop app to sync calendar birthdays from `.ics` files (or CSV) to Google Co
 
 ## Usage
 
+0. Create and source a python environment (3.11 tested)
 1. Install dependencies:
     ```
     pip install -r requirements.txt
