@@ -1,5 +1,3 @@
-# Google Contacts Birthday Sync
-
 A desktop app to sync calendar birthdays from `.ics` files (or CSV) to Google Contacts, with a responsive UI for matching, creating, and updating contacts.
 
 ## Features
